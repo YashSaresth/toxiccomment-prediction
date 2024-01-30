@@ -1,0 +1,2 @@
+The dataset i used in my project was taken from kaggle . 
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
